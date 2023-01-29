@@ -1,0 +1,153 @@
+body{
+    background-image: url('https://www.lawfareblog.com/sites/default/files/crypto%20mining.jpg');
+}
+
+      /* banner  */
+
+#banner{
+    
+        background-image: url('https://www.lawfareblog.com/sites/default/files/crypto%20mining.jpg');
+        background-size: cover;
+        
+}
+    .main{
+        width: 100%;
+        height: 87vh;
+        display: flex;
+       justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .main h1{
+        color: white;
+        font-size: 65px;
+        margin-top: -150px;
+        
+    }
+    section a{
+        text-align: center;
+        margin-top: 20px;
+        padding: 12px 60px;
+        color: beige;
+        border-radius: 50px;
+        font-size: 13px;
+        letter-spacing: 3px;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-decoration: none;
+ }
+
+section .btnone{
+    background-color:rgb(31, 12, 142);
+    color: #fff;
+    
+
+}
+section .btntwo{
+    background-color:rgb(58, 240, 82);
+    color: #fff;
+    
+}
+.btnone:hover{
+    background-color:rgb(58, 240, 82);
+    color: #fff;
+}
+.btntwo:hover{
+    background-color:rgb(31, 12, 142);
+    color: #fff;
+}
+
+
+/* center */
+#center-page{
+    background-color: rgb(246, 238, 238);
+}
+.main-two{
+    width: 100%;
+    height: 87vh;
+    display:flex;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cbtn-one{
+    color:#fff;
+    background-color: rgb(17, 227, 17);
+    text-align: center;
+    margin-top: 20px;
+    padding: 12px 30px;
+    border-radius: 0%;
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+   }
+   .main-two h3{
+
+    margin-top: 60px;
+    font-weight:inherit;
+    color: grey;
+   }
+.main-two h1{
+    color:black ;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 55px;
+}
+.main-two h2{
+    color: #000;
+    font-weight: lighter;
+
+}
+.main-two p{
+    color: #000;
+}
+#second-page{
+    background-image: url('https://img.freepik.com/free-vector/smooth-white-wave-background_52683-55288.jpg');
+    background-size: cover;
+}
+.main-three h3{
+color: rgb(0, 0, 0);
+text-align: center;
+}
+/* .morebtn{
+    color: blue;
+} */
+
+/* final page */
+
+#finalpage{
+    background-color: rgb(246, 238, 238);
+    width: 100%;
+    height: 150px;
+    
+}
+.main-four{
+    width: 100%;
+    height: 100px;
+    display:flex;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.morebtn{
+
+    color:#fff;
+    background-color: rgb(17, 227, 17);
+    text-align: center;
+    margin-top: 20px;
+    padding: 12px 30px;
+    border-radius: 0%;
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    
+}
+.morebtn:hover{
+    color: rgb(20, 47, 250);
+
+}
